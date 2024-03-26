@@ -5,7 +5,7 @@ Pygments>=2.11.2
 setuptools>=41.0.1
 docutils>=0.15
 mock>=1.0.1
-pillow>=9.0.1
+pillow>=10.2.0
 commonmark>=0.8.1
 recommonmark>=0.5.0
 sphinx>=4.4.0
@@ -22,3 +22,5 @@ sphinxemoji>=0.2.0
 # MyST
 myst-parser>=0.15.2
 myst-nb>=0.13.1
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
