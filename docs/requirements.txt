@@ -2,7 +2,7 @@
 Pygments>=2.11.2
 
 # Sphinx
-setuptools>=41.0.1
+setuptools>=70.0.0
 docutils>=0.15
 mock>=1.0.1
 pillow>=9.0.1
